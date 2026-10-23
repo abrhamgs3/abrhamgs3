@@ -2,7 +2,7 @@
 
 **Economist × Data Scientist** — Environmental and development economics, with production-grade Python.
 
-I'm an economist at **Mekelle University** (Department of Economics, College of Business and Economics, Ethiopia), affiliated with the **Norwegian University of Life Sciences (NMBU)**. My research centers on agricultural and development economics — market participation, poverty measurement, and environmental impacts. I'm on the job market for **economist and data scientist roles in the DC / DMV area**.
+I'm an economist at **Mekelle University** (Department of Economics, College of Business and Economics, Ethiopia), affiliated with the **Norwegian University of Life Sciences (NMBU)**. My research centers on agricultural and development economics - market participation, poverty measurement, and environmental impacts. I'm on the job market for **economist and data scientist roles in the DC / DMV area**.
 
 🌐 [abrhamgs3.github.io](https://abrhamgs3.github.io) — my personal site
 
@@ -10,9 +10,9 @@ I'm an economist at **Mekelle University** (Department of Economics, College of 
 
 ## Research
 
-- **Dairy market participation in Sululta District, Ethiopia** — *Scientific Reports* (2026)
-- **Coffee variety trait preferences among smallholder farmers** — *Bio-based and Applied Economics* (2020), with Ståle Navrud
-- **Environmental impacts of special economic zones in Ethiopia** — AGU25 abstract
+- **Dairy market participation in Sululta District, Ethiopia** - *Scientific Reports* (2026)
+- **Coffee variety trait preferences among smallholder farmers** - *Bio-based and Applied Economics* (2020), with Ståle Navrud
+- **Environmental impacts of special economic zones in Ethiopia** - AGU25 abstract
 
 ## Featured projects
 
