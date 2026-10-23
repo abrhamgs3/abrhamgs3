@@ -1,21 +1,21 @@
 ## Hi there 👋
 
 I am Abrha Megos Meressa (Abrish) 👋
-Economist × Data Scientist — Environmental and development economics, with production-grade Python.
+Economist × Data Scientist, environmental and development economics, with production-grade Python.
 I am an economist at Mekelle University (Department of Economics, College of Business and Economics, Ethiopia), and I studied at the School of Economics and Business, Norwegian University of Life Sciences (NMBU). My research focuses on agricultural and development economics — market participation, poverty measurement, and environmental impacts. I'm on the job market for economist and data scientist roles in the DC / DMV area.
 🌐 abrhamgs3.github.io — my personal site
 
 Research
-Dairy market participation in Sululta District, Ethiopia — Scientific Reports (2026)
-Coffee variety trait preferences among smallholder farmers — Bio-based and Applied Economics (2020), with Ståle Navrud
-Environmental impacts of special economic zones in Ethiopia — AGU25 abstract
+Dairy market participation in Sululta District, Ethiopia - Scientific Reports (2026)
+Coffee variety trait preferences among smallholder farmers - Bio-based and Applied Economics (2020), with Ståle Navrud
+Environmental impacts of special economic zones in Ethiopia - AGU25 abstract
 Featured projects
 Repo
 What it does
 eth-poverty-pipeline
 AI-screened poverty annotation → econometric bias correction, run on real Ethiopia ESS/ERSS household data. Packaged, pytest suite, CI, manuscript.
 ai-productivity
-Panel econometrics on AI adoption and total factor productivity across 193 countries. Typer CLI, pytest, CI matrix.
+Panel econometrics on AI adoption and total factor productivity across 193 countries: Typer CLI, pytest, CI matrix.
 llm-econ-pipeline
 LLM-assisted text annotation → econometric bias correction pipeline (offline demo, pytest-covered).
 llm-sentiment-pipeline
