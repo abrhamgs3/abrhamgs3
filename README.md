@@ -40,7 +40,3 @@ My recurring thread: **measurement error in development data** — and how to fi
 - Open to economist and data scientist roles in the DC / DMV area
 
 📫 Reach me via my [website](https://abrhamgs3.github.io)
-
----
-
-*Profile README draft — prepared 2026-10-04. To publish: create a public repo named `abrhamgs3` (no .github.io) with this file as `README.md`, then pin the featured repos above.*
